@@ -199,6 +199,7 @@ h2
 	width: 90%;
 	background-color:#cecdcb;
 	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 .infoBlock h1
@@ -210,6 +211,10 @@ h2
 	text-align: center;
 	padding-bottom: 25px;
 	color: #272727;
+}
+.infoBlock p
+{
+	font-family:  Euphemia UCAS
 }
 
 .infoBlock ul li
@@ -389,9 +394,9 @@ header::after {
   color:#bd7558;
 }
 
-.paymentButton
+.paymentButton button
 {
-	padding-top: 15px;
+	padding: 0px;
 }
 
 
