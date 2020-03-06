@@ -345,67 +345,9 @@ header::after {
 }
 
 
-/*Footer info*/
-
-
-.footer .ContactInfo
-{
-	
-	padding-left: 450px;
-	float: right;
-	text-decoration: none;
-	color: #ffffff;
-	width: 675px;
-	align-content: center;
-}
-.footer ul
-{
-	align-content: center;
-}
-
-.footer .ContactInfo li
-{ 
-	 
-	width: 725px;
-	align-content: center;
-	display: block;
-	color: #ffffff;
-	font-size: 15px;
-    padding: 2px;
-	padding-right: 45%;
-	text-align:left;
-	font-weight: 500;
-		
-}
-
-.footer .ContactInfo a
-{
-	color: #ffffff;
-}
-
-.footer .ContactInfo a:hover
-{
-	background-color: #bd7558;
-}
-
-.footer .ContactInfo h1
-{
-	font-size: 20px;
-	font-weight: 100;
-	text-transform: uppercase;
-	font-family: "Euphemia UCAS";
-	padding-bottom: 8px;
-	 text-align: left;
-}
-
-.footContain
-{
-	align-content: center;
-}
-
 .parallax { 
   /* The image used */
-  background-image: url("../DJI_0269.JPG");
+  background-image: url("../../DJI_0269.jpg");
 
   /* Set a specific height */
   height: 600px; 
@@ -445,6 +387,11 @@ header::after {
 .footerGrid a:hover 
 {
   color:#bd7558;
+}
+
+.paymentButton
+{
+	padding-top: 15px;
 }
 
 
